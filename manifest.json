@@ -8,5 +8,8 @@
   "background": {
     "persistent": false,
     "scripts": ["background.js"]
+  },
+  "browser_action": {
+    "default_icon": "icon.png"
   }
 }
